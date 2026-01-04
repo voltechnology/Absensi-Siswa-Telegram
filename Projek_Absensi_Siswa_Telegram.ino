@@ -10,11 +10,11 @@
 #define reset 4
 #define led 27
  
-const char* ssid = "KOS KEJAWAN 24";
-const char* password = "cleanhouse";
+const char* ssid = "GANTI USERNAME WIFI KAMU DI SINI";
+const char* password = "GANTI DENGAN PASSWORD KAMU DI SINI";
 
-const char* token = "8378932633:AAFBloeO1FKWaVduc0t4tOlLtT-3TzYgvXs";
-String id = "1473084272";
+const char* token = "GANTI DENGAN TOKEN TELEGRAM KAMU DI SINI";
+String id = "GANTI DENGAN ID KAMU DI SINI";
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 MFRC522 mfrc522(sda, reset);
